@@ -1,0 +1,22 @@
+{
+    "name": "DOTSUtils.Editor",
+    "rootNamespace": "DOTSUtils.Editor",
+    "references": [
+        "DOTSUtils.Runtime",
+        "DOTSUtils.Samples",
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
